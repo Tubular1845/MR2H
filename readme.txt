@@ -17,8 +17,7 @@ Installation and use instructions:
 
 ------------------------------------------------------------------------------------------------------------
 Notes: 
------
-
+------
 * You don't have to do what it says, if you don't have Nuts Oil and it wants you to use Nuts Oil 
 it'll adjust it's recommendations based on the actions you take.  When it recommends you do a HD, LD or Rest
 it's doing so considering the current stats you have. It's not looking at what you'll have after using 
