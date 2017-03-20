@@ -59,5 +59,19 @@ v1.07a
 
 -Fixed a bug when stats got too high.
 
+
+-----
+v1.07b
+-----
+
+-Added the ability to see spoil and fear, this will be expanded on in the future.
+
+
+-----
+v1.08
+-----
+
+-Fixed a display error in the breed list
+
 v1.1 planned features: Display stats gained per week, gold spent per week, total stats gained 
 during session and eventually since monster creation and more.
